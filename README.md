@@ -1,6 +1,6 @@
 Sample Python Code, playing with requests
 
 
-Run setup.sh
+Run bash setup.sh
 
 Thank you Alex
